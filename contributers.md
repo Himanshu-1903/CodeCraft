@@ -31,5 +31,6 @@
 | Aaditya Maurya | aadityamaurya31 | IIIT Allahabad |
 | Himanshu Vitthalani     | Himanshu-1903            | IIIT Allahabad
 
+| Khushi Shorey | khushishorey | IIIT Allahabad |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
